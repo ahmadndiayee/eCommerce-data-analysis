@@ -1,3 +1,4 @@
 .idea/
 venv/
 eCommerce-data-analysis.iml
+__pycache__/
